@@ -8,13 +8,13 @@ ADMIN_IDS = [5420944421, 582974676]  # O'z Telegram ID ingiz
 REQUIRED_CHANNELS = [
     {
         "name": "English Team LC",
-        "username": "@english_team_lc1",
-        "url": "https://t.me/english_team_lc1"
+        "username": "@vestelop",
+        "url": "https://t.me/vestelop"
     },
     {
         "name": "Abbos Mehmonaliyev",
-        "username": "@abbos_mekhmonaliev",
-        "url": "https://t.me/abbos_mekhmonaliev"
+        "username": "@karetsop",
+        "url": "https://t.me/karetsop"
     },
 ]
 
